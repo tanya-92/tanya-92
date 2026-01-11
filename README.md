@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and lifelong learner</h3>
 
 - 🔭 I’m currently working on **DSA and building full-stack projects**  
-- 🌱 🌱 I’m learning **system design fundamentals** and building **real-time applications**
+- 🌱 I’m learning **system design fundamentals** and building **real-time applications**
 - 👯 I’m looking to collaborate on **innovative web apps and open-source projects**  
 - ⚡ Fun fact: *I debug my code using console.log therapy.*  
 
@@ -27,20 +27,19 @@
 ---
 
 ### 🧠 Coding Profiles
-- 💡 [**LeetCode:**](https://leetcode.com/u/tanya-92/)
+- 💡 [**LeetCode**](https://leetcode.com/u/tanya-92/)
 - 💡 [**Hackerrank**](https://www.hackerrank.com/profile/tanyayadav19221)
 
 ---
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanya-92&show_icons=true&theme=tokyonight" alt="Tanya's GitHub stats" />
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-92&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya-92&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya-92&layout=compact&theme=tokyonight)
+
 
 
 ⭐️ From [Tanya Yadav](https://github.com/tanya-92)
